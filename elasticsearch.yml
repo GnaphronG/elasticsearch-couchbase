@@ -1,5 +1,5 @@
 network.host: 0.0.0.0
 
-couchbase.username: Administrator
-couchbase.password: Couchbase
+couchbase.username: "${ES_COUCHBASE_USERNAME}"
+couchbase.password: "${ES_COUCHBASE_PASSWORD}"
 
