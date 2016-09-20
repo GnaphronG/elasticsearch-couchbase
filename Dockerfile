@@ -1,4 +1,4 @@
-FROM elasticsearch:2.3.5
+FROM elasticsearch:2.4.0
 
 MAINTAINER Guillaume Goussard <guillaume.goussard@gmail.com>
 
